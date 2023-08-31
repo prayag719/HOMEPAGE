@@ -21,7 +21,7 @@
 }
 
 .nav__item a:hover {
-  color: #17bf9e;
+  color: rgb(26, 93, 26);
 }
 
 .nav__right p {
@@ -58,7 +58,7 @@
 
   .nav__list {
     position: absolute;
-    background: #fff;
+    background: rgb(238, 238, 238);
     top: 0;
     right: 0;
     width: 250px;
@@ -83,18 +83,3 @@
 }
 /* Add your other styles here */
 /* Add your other styles here */
-
-.login-link,
-.register-link {
-  /* Text color */
-  background-color: #17bf9e; /* Background color */
-  border-radius: 20px; /* Rounded corners */
-  padding: 6px 15px; /* Add padding for spacing */
-  text-decoration: none; /* Remove default underline */
-}
-
-/* Optional: Add hover effect */
-.login-link:hover,
-.register-link:hover {
-  background-color: gray; /* Change background color on hover */
-}

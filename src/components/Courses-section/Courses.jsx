@@ -90,9 +90,9 @@ const Courses = () => {
               <div className="course__top__left w-50">
                 <h2>Our Popular Courses</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                  Whether you're a seasoned developer looking to expand your
+                  skill set or a curious beginner taking your first steps into
+                  the world of coding, we have something for everyone.
                 </p>
               </div>
 

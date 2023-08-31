@@ -46,13 +46,18 @@ const footerInfoLinks = [
 ];
 
 const Footer = () => {
+  const codeStyle = {
+    color: "rgb(6, 143, 255)",
+  };
   return (
     <footer className="footer">
       <Container>
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Learners.
+              {"{"}
+              <span style={codeStyle}>code</span>
+              {"}crush"}
             </h2>
 
             <div className="follows">
@@ -114,7 +119,7 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
+            <p>Address: Sangli , Maharashtra , India</p>
             <p> Phone: +88 0123456789 </p>
             <p>Email: example@gmail.com</p>
           </Col>

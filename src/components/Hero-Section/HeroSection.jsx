@@ -27,7 +27,12 @@ const HeroSection = () => {
           </Col>
 
           <Col lg="6" md="6">
-            <img src={heroImg} alt="" className="w-100 hero__img" />
+            <img
+              src={heroImg}
+              alt=""
+              className="w-100 hero__img"
+              style={{ marginTop: "40px" }} // Adjust the value as needed
+            />
           </Col>
         </Row>
       </Container>

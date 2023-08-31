@@ -14,7 +14,7 @@
 
 .search {
   width: 60%;
-  border: 1px solid #17bf9d44;
+  border: 1.3px solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;

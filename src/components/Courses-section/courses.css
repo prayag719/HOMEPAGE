@@ -3,7 +3,6 @@
 }
 
 .course__img img {
-  border-radius: 10px;
   margin-bottom: 20px;
 }
 
@@ -11,7 +10,7 @@
   text-decoration: none;
   font-weight: 600;
   font-size: 0.9rem;
-  color: #17bf9e;
+  color: black;
 }
 
 .lesson,
