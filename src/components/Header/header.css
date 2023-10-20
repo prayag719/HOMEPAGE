@@ -15,7 +15,7 @@
 .nav__item a {
   font-weight: 500;
   font-size: 1.1rem;
-  color: #0a2b1e;
+  color: #000000;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -58,7 +58,7 @@
 
   .nav__list {
     position: absolute;
-    background: #fff;
+    background: #e7e2de;
     top: 0;
     right: 0;
     width: 250px;
@@ -87,7 +87,7 @@
 .login-link,
 .register-link {
   /* Text color */
-  background-color: #17bf9e; /* Background color */
+  background-color: white; /* Background color */
   border-radius: 20px; /* Rounded corners */
   padding: 6px 15px; /* Add padding for spacing */
   text-decoration: none; /* Remove default underline */
@@ -96,5 +96,5 @@
 /* Optional: Add hover effect */
 .login-link:hover,
 .register-link:hover {
-  background-color: gray; /* Change background color on hover */
+  background-color: black; /* Change background color on hover */
 }

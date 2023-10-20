@@ -29,7 +29,7 @@ h6 {
 }
 
 p {
-  color: #596b65;
+  color: black;
   font-size: 1rem;
   line-height: 35px;
   font-family: "Andada Pro", serif;
@@ -37,10 +37,15 @@ p {
 }
 
 button.btn {
-  background: #17bf9e;
+  background: black;
   color: #fff;
   padding: 7px 25px;
   border-radius: 50px;
+}
+
+button.btn :hover {
+  background: turquoise;
+  color: #fff;
 }
 
 i {

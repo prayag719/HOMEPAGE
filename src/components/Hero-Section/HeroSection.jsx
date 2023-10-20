@@ -20,10 +20,6 @@ const HeroSection = () => {
                 master the art of programming.
               </p>
             </div>
-            <div className="search">
-              <input type="text" placeholder="Search" />
-              <button className="btn">Search</button>
-            </div>
           </Col>
 
           <Col lg="6" md="6">
